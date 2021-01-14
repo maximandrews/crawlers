@@ -1,0 +1,5 @@
+string(287) "<tr><td>ğ’ğ°ğ»ññ‚ğ°</td><td>ğšñƒğ¿ñ–ğ²ğ»ñ</td><td>ğŸñ€ğ¾ğ´ğ°ğ¶</td><td>ğğ‘ğ£</td></tr><tr><td>usd</td><td>8.0900</td><td>8.1470</td><td>7.9930</td></tr><tr><td>eur</td><td>10.570</td><td>10.810</td><td>10.552</td></tr><tr><td>rur</td><td>0.2400</td><td>0.2500</td><td>0.2456</td></tr>"
+Symbol	Qty 	BuyCash 	SellCash 	Buy 	Sell 
+USD:	1;  	8.09;   	8.147;   	0;  	0
+EUR:	1;  	10.57;  	10.81;   	0;  	0
+RUR:	1;  	0.24;   	0.25;    	0;  	0
